@@ -1,5 +1,12 @@
 # Investment Tools
 
+> [!IMPORTANT]
+> **⚠️ 郑重声明 / DISCLAIMER**
+> 
+> **以上这些脚本都是利用 AI 大模型生成。作者编程能力有限，无法处理深奥问题，代码逻辑与功能实现均源自与 AI 的问答互动。**
+> 
+> **These scripts were generated using AI Large Language Models. The author has limited programming skills and cannot handle complex technical issues. All code logic and implementations are results of AI interactions.**
+
 该项目包含一系列用于股票数据获取、分析和新闻抓取的 Python 工具脚本。主要功能包括：获取股票代码、下载历史行情与期权数据、进行技术面诊断分析以及抓取 24 小时财经快讯。
 
 ## 目录
