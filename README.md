@@ -41,7 +41,7 @@ pip install requests pandas yfinance pandas_ta scikit-learn pytz openpyxl
 
 **输出**:
 -   `us_stocks_list.csv`: 包含所有抓取到的股票信息。
-
+-   其实主要就是想获取stock_id这个富途独有的id，然后其他url的参数会用上 
 ---
 
 ### 2. 获取历史行情与期权数据 (daily_stock_option_data.py)
